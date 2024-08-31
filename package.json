@@ -1,5 +1,5 @@
 {
-  "name": "cli-word-counter",
+  "name": "aui-cli-word-counter",
   "version": "1.0.0",
   "description": "This Is A CLI Based Word Counting Project. This Project Developed By Afaq UL Islam.Run This Command To Your CMD For Testing 'npx cli-word-counter'",
   "main": "main.js",
